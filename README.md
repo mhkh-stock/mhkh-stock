@@ -78,7 +78,7 @@
 | Project | What it shows | Tools | Repo |
 |---------|---------------|-------|------|
 | Exploratory Data Analysis — Palmer Penguins | Question-first EDA: cleaning checks, statistics, honest findings | Python · pandas · SciPy | [Exploratory-Data-Analysis](https://github.com/mhkh-stock/Exploratory-Data-Analysis) |
-| Data Visualization — Palmer Penguins | Decision-oriented charts, each answering one question | Python · Matplotlib · Seaborn | [Virtualization-Environment-Setup](https://github.com/mhkh-stock/Virtualization-Environment-Setup) *(being renamed `penguins-data-visualization`)* |
+| Data Visualization — Palmer Penguins | Decision-oriented charts, each answering one question | Python · Matplotlib · Seaborn | [penguins-data-visualization](https://github.com/mhkh-stock/penguins-data-visualization) |
 
 ---
 
@@ -100,9 +100,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhkh-stock&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhkh-stock&theme=github_dark" alt="GitHub stats: repositories, stars, followers, commits" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhkh-stock&theme=github_dark" alt="Repositories per language" />
