@@ -71,6 +71,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mhkh-stock&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhkh-stock&theme=github_dark" alt="Profile summary" />
 </p>
 
@@ -79,7 +82,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mhkh-stock/mhkh-stock/output/github-contribution-grid-snake.svg" alt="Animated contribution snake — appears after the first scheduled workflow run" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhkh-stock/mhkh-stock/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhkh-stock/mhkh-stock/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mhkh-stock/mhkh-stock/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+  </picture>
 </p>
 
 ---
