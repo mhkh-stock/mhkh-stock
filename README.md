@@ -8,26 +8,40 @@
   <img src="https://komarev.com/ghpvc/?username=mhkh-stock&color=2F81F7&style=flat" alt="Profile views" />
   <a href="https://github.com/mhkh-stock"><img src="https://img.shields.io/badge/GitHub-@mhkh--stock-181717?style=flat&logo=github&logoColor=white" alt="GitHub @mhkh-stock" /></a>
   <a href="mailto:mhkh3200@gmail.com"><img src="https://img.shields.io/badge/Email-mhkh3200@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email mhkh3200@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Freelance-brightgreen?style=flat" alt="Open to internships and freelance work" />
 </p>
 
 <p align="center">
-  BS Computer Science, University of Engineering &amp; Technology Peshawar · Nowshera, Pakistan<br/>
-  I work the <b>full data lifecycle</b> — ingest → store → transform → analyse → visualise → automate — and turn messy business data into decisions a manager can act on.
+  <b>Data Analyst</b> · BS Computer Science, UET Peshawar · Nowshera, Pakistan<br/>
+  I work the full data lifecycle — ingest → store → transform → analyse → visualise → automate —<br/>
+  and turn messy business data into decisions a manager can act on.<br/>
+  <b>Open to data analyst internships and freelance data work.</b>
 </p>
 
 ---
 
-## 🧰 Core Tools
+## ✨ Featured Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github" alt="Python, PostgreSQL, MySQL, SQLite, Git, GitHub" />
-</p>
+| Project | Outcome | Stack |
+|---------|---------|-------|
+| [Power BI KPI Dashboard](https://github.com/mhkh-stock/p3-powerbi-kpi-dashboard) | Star-schema model + DAX measures; 1,200 orders, PKR 11.8M sales, 45.4% margin, fully explained | Power BI · SQL |
+| [Messy Data Cleaning](https://github.com/mhkh-stock/p2-messy-data-cleaning) | 10,000 dirty rows → 9,258 clean rows + validation report of everything fixed | Python (pandas) |
+| [PDF → Excel Conversion Pipeline](https://github.com/mhkh-stock/p6-pdf-to-excel-conversion) | 5 invoices → 20-line workbook, totals reconciled to the cent | Python (PyMuPDF) |
+
+## 💼 Services — What I Can Do For You
+
+| Service | You receive | Example |
+|---------|-------------|---------|
+| Dashboards | One-page KPI view of your business | [Excel Sales Dashboard](https://github.com/mhkh-stock/p1-excel-sales-dashboard) |
+| Data cleaning | Clean, usable data + a report of what was fixed | [Messy Data Cleaning](https://github.com/mhkh-stock/p2-messy-data-cleaning) |
+| Scraping & lead lists | Competitor prices or ready-to-call leads in Excel | [Price Tracker](https://github.com/mhkh-stock/p4-ecommerce-price-tracker) · [Lead List](https://github.com/mhkh-stock/p5-google-maps-lead-list) |
+| Automated reporting | Reports that build themselves, every month | Next build: P7 Automated Monthly Report |
 
 ---
 
 ## 📚 Project Library
 
-*Every project lives in the same structure, so anything here can be picked up and run in minutes: `README` (business question → live demo → key findings) · `data/` · numbered `notebooks/` · `src/` (pipeline + data-quality checks) · `sql/` · `dashboard/` · `outputs/` (charts + one-page summary).*
+*Every project uses the same structure, so anything here can be picked up and run in minutes: `README` (business question → key findings) · `data/` · `src/` (pipeline + data-quality checks) · `sql/` · `dashboard/` · `outputs/` (one-page summary).*
 
 ### 🏆 Flagship Projects — in build order
 
@@ -68,6 +82,22 @@
 
 ---
 
+## 🧰 What I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github" alt="Python, PostgreSQL, MySQL, SQLite, Git, GitHub" />
+</p>
+
+**Languages** · Python, SQL
+**Ingestion** · REST APIs, web scraping (requests / BeautifulSoup), PDF & Excel extraction
+**Storage** · PostgreSQL, SQLite, MySQL
+**Transform** · pandas, NumPy, SQL (CTEs, window functions), Power Query
+**Analysis & ML** · Statistics & A/B testing, scikit-learn *(building)*, Matplotlib, Seaborn
+**BI & Apps** · Power BI, Excel, Tableau Public, Streamlit, Google Sheets
+**Workflow** · Git, GitHub, Jupyter, scheduled automation, data-quality checks as code
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -91,28 +121,10 @@
 
 ---
 
-## 🧰 Tech Stack — by lifecycle layer
-
-**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Ingestion** — REST APIs · Web scraping (requests / BeautifulSoup) · PDF & Excel extraction
-
-**Storage** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Transform** ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) — SQL (CTEs, window functions) · Power Query
-
-**Analysis & ML** — Statistics & A/B testing · scikit-learn *(building)* · Matplotlib · Seaborn
-
-**BI & Apps** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) — Tableau Public · Streamlit · Google Sheets
-
-**Workflow** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) — Jupyter · scheduled automation · data-quality checks as code
-
----
-
 ## 🔨 Currently Building
 
-- **Profile & library system** — this page, the standard project template, and the paid + mini builds above (all live).
-- **Next:** Flagship 1 — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; analysis queries next; live 27 Nov 2026).
+- **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; analysis queries next; live 27 Nov 2026).
+- **Next:** P7 Automated Monthly Report + Mini #4 SQL Data Quality Checks Pack (Tue 3 Nov 2026 daily build).
 
 ## 📫 Contact
 
