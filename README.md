@@ -65,6 +65,7 @@
 | Google Maps Lead List | 74 Gulberg, Lahore leads from OpenStreetMap | Python · SQLite | [p5-google-maps-lead-list](https://github.com/mhkh-stock/p5-google-maps-lead-list) |
 | PDF → Excel Conversion Pipeline | 5 invoices → 20-line workbook, totals reconciled | Python (PyMuPDF) | [p6-pdf-to-excel-conversion](https://github.com/mhkh-stock/p6-pdf-to-excel-conversion) |
 | Automated Monthly Report | Live-formula report + Google Sheets automation, 560 SAMPLE lines | Excel · Google Apps Script | [p7-automated-monthly-report](https://github.com/mhkh-stock/p7-automated-monthly-report) |
+|Inventory & Stock Tracker|Inventory tracker workbook - stock levels, reorder flags, SAMPLE data|Excel, Python|[p8-inventory-stock-tracker](https://github.com/mhkh-stock/p8-inventory-stock-tracker)|
 
 ### 📊 Mini Skill Packs — live repos
 
@@ -74,6 +75,7 @@
 | Excel Budget & Expense Tracker | Live-formula workbook, overspend flags that work | [mini2-excel-budget-tracker](https://github.com/mhkh-stock/mini2-excel-budget-tracker) |
 | SQL CTEs & Joins | Anti-joins, month spines, CTE join-backs, self-joins | [mini3-sql-cte-joins](https://github.com/mhkh-stock/mini3-sql-cte-joins) |
 | SQL Data Quality Checks | 10 DQ checks, 11 planted defects found exactly | SQL · SQLite | [mini4-sql-data-quality-checks](https://github.com/mhkh-stock/mini4-sql-data-quality-checks) |
+|Statistics & A/B Testing|Conversion rates, z-test, 95% CI, SRM check|[mini5-statistics-ab-testing](https://github.com/mhkh-stock/mini5-statistics-ab-testing)|
 
 ### 🐍 Foundations
 
