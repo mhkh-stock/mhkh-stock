@@ -72,7 +72,7 @@
 *Complete, working websites — not demos. Each one runs on Node.js + SQLite with zero dependencies, has its own live site and public code, and solves a real Pakistan-specific gap (no equivalent structured, verified directory exists for any of them).*
 
 | Project | What it does | Stack | Repo | Live |
-|---------|--------------|-----|----|------|
+|---------|--------------|-------|------|------|
 | Mandi Price Intelligence | Daily wholesale mandi prices for 170 districts + Karachi, province-first search, overcharge checker, daily live refresh from AMIS Pakistan | Node.js · SQLite | [mandi-price-intelligence](https://github.com/mhkh-stock/mandi-price-intelligence) | [Live site](https://mandi-price-intelligence-5e001.containers.snapdeploy.app/) (v1.1 live — v2 deploying 5 Nov) |
 | Bijli Map | Community outage reports, live area board, UPS runtime estimator, DISCO directory, district pages + district admins | Node.js · SQLite | [bijli-map](https://github.com/mhkh-stock/bijli-map) | [Live site](https://bijli-map-5e001.containers.snapdeploy.app/) (v1.0 live — v1.1 deploying 5 Nov) |
 | My Mehngai Index | Personal basket inflation vs the official PBS weekly SPI — 51-item tracker, quintile table, spending-weighted personal inflation | Node.js · SQLite | [mehngai-index](https://github.com/mhkh-stock/mehngai-index) | ⏳ Deploying 5 Nov |
