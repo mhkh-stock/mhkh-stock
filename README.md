@@ -67,6 +67,18 @@
 | Automated Monthly Report | Live-formula report + Google Sheets automation, 560 SAMPLE lines | Excel · Google Apps Script | [p7-automated-monthly-report](https://github.com/mhkh-stock/p7-automated-monthly-report) |
 |Inventory & Stock Tracker|Inventory tracker workbook - stock levels, reorder flags, SAMPLE data|Excel, Python|[p8-inventory-stock-tracker](https://github.com/mhkh-stock/p8-inventory-stock-tracker)|
 
+### 🌐 Live Web Applications — full-stack products
+
+*Complete, working websites — not demos. Each one runs on Node.js + SQLite with zero dependencies, has its own live site and public code, and solves a real Pakistan-specific gap (no equivalent structured, verified directory exists for any of them).*
+
+| Project | What it does | Stack | Repo | Live |
+|---------|--------------|-----|----|------|
+| Mandi Price Intelligence | Daily wholesale mandi prices for 170 districts + Karachi, province-first search, overcharge checker, daily live refresh from AMIS Pakistan | Node.js · SQLite | [mandi-price-intelligence](https://github.com/mhkh-stock/mandi-price-intelligence) | [Live site](https://mandi-price-intelligence-5e001.containers.snapdeploy.app/) (v1.1 live — v2 deploying 5 Nov) |
+| Bijli Map | Community outage reports, live area board, UPS runtime estimator, DISCO directory, district pages + district admins | Node.js · SQLite | [bijli-map](https://github.com/mhkh-stock/bijli-map) | [Live site](https://bijli-map-5e001.containers.snapdeploy.app/) (v1.0 live — v1.1 deploying 5 Nov) |
+| My Mehngai Index | Personal basket inflation vs the official PBS weekly SPI — 51-item tracker, quintile table, spending-weighted personal inflation | Node.js · SQLite | [mehngai-index](https://github.com/mhkh-stock/mehngai-index) | ⏳ Deploying 5 Nov |
+| Salary Reality Index | Anonymous salary reports with admin approval, medians by role / city / experience, plus published reference figures with source and sample size | Node.js · SQLite | [salary-reality-index](https://github.com/mhkh-stock/salary-reality-index) | ⏳ Deploying 5 Nov |
+| Hostel + Mess Index | Verified vs listed hostel rents + mess rates by university area, price history on every change, monthly total calculator | Node.js · SQLite | [hostel-mess-index](https://github.com/mhkh-stock/hostel-mess-index) | ⏳ Deploying 5 Nov |
+
 ### 📊 Mini Skill Packs — live repos
 
 | Pack | What it proves | Repo |
@@ -126,7 +138,7 @@
 ## 🔨 Currently Building
 
 - **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; analysis queries next; live 27 Nov 2026).
-- **Next:** P7 Automated Monthly Report + Mini #4 SQL Data Quality Checks Pack (Tue 3 Nov 2026 daily build).
+- **Next:** the 5 web apps above go fully live 5 Nov 2026 (Mandi v2 + Bijli v1.1 redeploys, Mehngai / Salary / Hostel first deploys) after the hosting quota reset.
 
 ## 📫 Contact
 
