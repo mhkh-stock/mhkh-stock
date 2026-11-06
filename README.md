@@ -75,11 +75,13 @@
 
 | Project | What it does | Stack | Repo | Live |
 |---------|--------------|-------|------|------|
-| Mandi Price Intelligence | Daily mandi rates for 168 districts across Pakistan — province → district → fruits / vegetables, Urdu units (کلو / درجن), overcharge checker, daily auto-refresh from AMIS Pakistan, district rate-admins, grounded rate chat | Node.js · SQLite | [mandi-price-intelligence](https://github.com/mhkh-stock/mandi-price-intelligence) | [Live site](https://mandi-price-intelligence-5e001.containers.snapdeploy.app/) (v2 live — v3.0 deploying 6 Nov) |
-| Bijli Map | Role-based load-shedding schedules for 168 districts — government admins publish official schedules per district + grid; public login with Gmail + CNIC district check, see only your own district and grid | Node.js · SQLite | [bijli-map](https://github.com/mhkh-stock/bijli-map) | [Live site](https://bijli-map-5e001.containers.snapdeploy.app/) (v2.0 live) |
+| Mandi Price Intelligence | Daily mandi rates for 168 districts across Pakistan — province → district → fruits / vegetables, Urdu units (کلو / درجن), overcharge checker, daily auto-refresh from AMIS Pakistan, district rate-admins, grounded rate chat | Node.js · SQLite | [mandi-price-intelligence](https://github.com/mhkh-stock/mandi-price-intelligence) | [Live site](https://mandi-price-intelligence-5e001.containers.snapdeploy.app/) (v3.0 live) |
+| Bijli Map | Role-based load-shedding schedules for 168 districts — government admins publish official schedules per district + grid; public login with Gmail + CNIC district check, see only your own district and grid | Node.js · SQLite | [bijli-map](https://github.com/mhkh-stock/bijli-map) | [Live site](https://bijli-map-5e001.containers.snapdeploy.app/) (v2.0 live — private admin codes live) |
 | My Mehngai Index | Personal basket inflation vs the official PBS weekly SPI — 51-item tracker, quintile table, spending-weighted personal inflation | Node.js · SQLite | [mehngai-index](https://github.com/mhkh-stock/mehngai-index) | Code complete — live deploy pending a free hosting slot |
 | Salary Reality Index | Anonymous salary reports with admin approval, medians by role / city / experience, plus published reference figures with source and sample size | Node.js · SQLite | [salary-reality-index](https://github.com/mhkh-stock/salary-reality-index) | Code complete — live deploy pending a free hosting slot |
 | Hostel + Mess Index | Verified vs listed hostel rents + mess rates by university area, price history on every change, monthly total calculator | Node.js · SQLite | [hostel-mess-index](https://github.com/mhkh-stock/hostel-mess-index) | Code complete — live deploy pending a free hosting slot |
+| Loan Payback Calculator | What a loan from a Pakistani app really costs — 51 presets across banks, wallets, BNPL and licensed nano apps, late fees over time | Node.js · SQLite | [loan-payback-calculator](https://github.com/mhkh-stock/loan-payback-calculator) | Code complete — live deploy pending a free hosting slot |
+| Personal Card Vault | Private encrypted vault for all your bank, wallet and payment cards — balances set only by your bank's SMS or statement, never typed | Node.js · SQLite | [personal-card-vault](https://github.com/mhkh-stock/personal-card-vault) | Code complete — live deploy pending a free hosting slot |
 
 ### 📊 Mini Skill Packs — live repos
 
@@ -142,7 +144,7 @@
 ## 🔨 Currently Building
 
 - **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; analysis queries next; live 27 Nov 2026).
-- **Next:** Mandi Price Intelligence v3.0 goes live 6 Nov 2026 after the hosting quota reset; Bijli Map v2.0 is already live. Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
+- **Next:** Mandi Price Intelligence v3.0 is live and Bijli Map v2.0 is live. Loan Payback Calculator, Personal Card Vault, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
 
 ## 📫 Contact
 
