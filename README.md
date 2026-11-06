@@ -81,7 +81,7 @@
 | Salary Reality Index | Anonymous salary reports with admin approval, medians by role / city / experience, plus published reference figures with source and sample size | Node.js · SQLite | [salary-reality-index](https://github.com/mhkh-stock/salary-reality-index) | Code complete — live deploy pending a free hosting slot |
 | Hostel + Mess Index | Verified vs listed hostel rents + mess rates by university area, price history on every change, monthly total calculator | Node.js · SQLite | [hostel-mess-index](https://github.com/mhkh-stock/hostel-mess-index) | Code complete — live deploy pending a free hosting slot |
 | Loan Payback Calculator | What a loan from a Pakistani app really costs — 51 presets across banks, wallets, BNPL and licensed nano apps, late fees over time | Node.js · SQLite | [loan-payback-calculator](https://github.com/mhkh-stock/loan-payback-calculator) | Code complete — live deploy pending a free hosting slot |
-| Personal Card Vault | Private encrypted vault for all your bank, wallet and payment cards — balances set only by your bank's SMS or statement, never typed | Node.js · SQLite | [personal-card-vault](https://github.com/mhkh-stock/personal-card-vault) | Code complete — live deploy pending a free hosting slot |
+| Ghar ka Register | One private, PIN-locked home book for a Pakistani household — staff pay and advances, daily deliveries, money lent and borrowed, bill due dates, documents and their expiry, and the medicine cabinet — free, open-source, local-first, nothing ever leaves the device | Node.js · SQLite | [personal-money-guard](https://github.com/mhkh-stock/personal-money-guard) | Code complete — live deploy pending a free hosting slot |
 
 ### 📊 Mini Skill Packs — live repos
 
@@ -144,7 +144,7 @@
 ## 🔨 Currently Building
 
 - **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; analysis queries next; live 27 Nov 2026).
-- **Next:** Mandi Price Intelligence v3.0 is live and Bijli Map v2.0 is live. Loan Payback Calculator, Personal Card Vault, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
+- **Next:** Mandi Price Intelligence v3.0 is live and Bijli Map v2.0 is live. Loan Payback Calculator, Ghar ka Register, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
 
 ## 📫 Contact
 
