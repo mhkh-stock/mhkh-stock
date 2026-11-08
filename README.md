@@ -69,6 +69,7 @@
 |Instagram Business Analytics Report|90-day engagement audit - reach, engagement rate by format, top posts, actions|Python, PDF|[p9-instagram-analytics-report](https://github.com/mhkh-stock/p9-instagram-analytics-report)|
 |Food-Delivery Sales Analysis|Power BI dashboard + 2-page best-sellers report, 1,800 SAMPLE orders|Power BI · SQL · Python|[p10-food-delivery-sales-analysis](https://github.com/mhkh-stock/p10-food-delivery-sales-analysis)|
 |HR Attendance & Payroll Dashboard|24-employee attendance + payroll workbook, live formulas, 64 checks|Excel · Python|[p11-hr-attendance-payroll-dashboard](https://github.com/mhkh-stock/p11-hr-attendance-payroll-dashboard)|
+|Real-Estate Listings Scraper + Price Analysis|16 scraped listings → area price analysis + live-formula dashboard workbook|Python · SQLite · Excel|[p12-real-estate-listings-scraper](https://github.com/mhkh-stock/p12-real-estate-listings-scraper)|
 
 ### 🌐 Live Web Applications — full-stack products
 
@@ -96,6 +97,7 @@
 |Excel Advanced Formulas & Lookups|XLOOKUP, INDEX+MATCH, VLOOKUP, SUMIFS, IFS - 10 live-formula techniques|[mini6-excel-formulas-lookups](https://github.com/mhkh-stock/mini6-excel-formulas-lookups)|
 |Python ETL: API → SQLite|Live weather API → SQLite, 6 Pakistani cities, 16 DQ checks|[mini7-python-etl-api-sqlite](https://github.com/mhkh-stock/mini7-python-etl-api-sqlite)|
 |SQL Date & Time Analysis|MoM/YoY growth, running totals, weekday seasonality, aging buckets|[mini8-sql-date-time-analysis](https://github.com/mhkh-stock/mini8-sql-date-time-analysis)|
+|Power BI One-Pager: Gym Membership|Star-schema model + 9 DAX measures + build guide, 60 members, PKR 1.56M revenue|[mini9-powerbi-gym-one-pager](https://github.com/mhkh-stock/mini9-powerbi-gym-one-pager)|
 
 ### 🐍 Foundations
 
@@ -145,7 +147,7 @@
 
 ## 🔨 Currently Building
 
-- **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; Phase C RFM + churn done 7 Nov 2026 — 70.01% churned, 617 at-risk repeat buyers; live 27 Nov 2026).
+- **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; Phase C RFM + churn done 7 Nov 2026 — 70.01% churned, 617 at-risk repeat buyers; Phase D validation done 8 Nov 2026 — all 11 headlines reconcile three ways; live 27 Nov 2026).
 - **Next:** Mandi Price Intelligence v3.0 is live and Bijli Map v2.0 is live. Loan Payback Calculator, Ghar ka Register, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
 
 ## 📫 Contact
