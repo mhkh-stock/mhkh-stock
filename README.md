@@ -70,6 +70,7 @@
 |Food-Delivery Sales Analysis|Power BI dashboard + 2-page best-sellers report, 1,800 SAMPLE orders|Power BI · SQL · Python|[p10-food-delivery-sales-analysis](https://github.com/mhkh-stock/p10-food-delivery-sales-analysis)|
 |HR Attendance & Payroll Dashboard|24-employee attendance + payroll workbook, live formulas, 64 checks|Excel · Python|[p11-hr-attendance-payroll-dashboard](https://github.com/mhkh-stock/p11-hr-attendance-payroll-dashboard)|
 |Real-Estate Listings Scraper + Price Analysis|16 scraped listings → area price analysis + live-formula dashboard workbook|Python · SQLite · Excel|[p12-real-estate-listings-scraper](https://github.com/mhkh-stock/p12-real-estate-listings-scraper)|
+|Data Quality Audit Pack|1,524-row audit — 300 defects found, fixed file + 10 SQL checks to keep|Python · SQL · SQLite · Excel|[p13-data-quality-audit-pack](https://github.com/mhkh-stock/p13-data-quality-audit-pack)|
 
 ### 🌐 Live Web Applications — full-stack products
 
