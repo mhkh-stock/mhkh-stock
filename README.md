@@ -71,6 +71,7 @@
 |HR Attendance & Payroll Dashboard|24-employee attendance + payroll workbook, live formulas, 64 checks|Excel · Python|[p11-hr-attendance-payroll-dashboard](https://github.com/mhkh-stock/p11-hr-attendance-payroll-dashboard)|
 |Real-Estate Listings Scraper + Price Analysis|16 scraped listings → area price analysis + live-formula dashboard workbook|Python · SQLite · Excel|[p12-real-estate-listings-scraper](https://github.com/mhkh-stock/p12-real-estate-listings-scraper)|
 |Data Quality Audit Pack|1,524-row audit — 300 defects found, fixed file + 10 SQL checks to keep|Python · SQL · SQLite · Excel|[p13-data-quality-audit-pack](https://github.com/mhkh-stock/p13-data-quality-audit-pack)|
+|RFM Customer Segmentation Report|500 customers → 7 RFM segments, PKR 3.12M revenue at stake, live-formula workbook|Python · SQL · SQLite · Excel|[p14-rfm-customer-segmentation](https://github.com/mhkh-stock/p14-rfm-customer-segmentation)|
 
 ### 🌐 Live Web Applications — full-stack products
 
@@ -99,6 +100,7 @@
 |Python ETL: API → SQLite|Live weather API → SQLite, 6 Pakistani cities, 16 DQ checks|[mini7-python-etl-api-sqlite](https://github.com/mhkh-stock/mini7-python-etl-api-sqlite)|
 |SQL Date & Time Analysis|MoM/YoY growth, running totals, weekday seasonality, aging buckets|[mini8-sql-date-time-analysis](https://github.com/mhkh-stock/mini8-sql-date-time-analysis)|
 |Power BI One-Pager: Gym Membership|Star-schema model + 9 DAX measures + build guide, 60 members, PKR 1.56M revenue|[mini9-powerbi-gym-one-pager](https://github.com/mhkh-stock/mini9-powerbi-gym-one-pager)|
+|SQL Subqueries & EXISTS|Scalar, correlated, IN, EXISTS/NOT EXISTS — 10 business queries, 30 checks|[mini10-sql-subqueries-exists](https://github.com/mhkh-stock/mini10-sql-subqueries-exists)|
 
 ### 🐍 Foundations
 
