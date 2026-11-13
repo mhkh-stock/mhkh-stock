@@ -76,6 +76,13 @@
 |Google Sheets Automation Pack|Apps Script builds the weekly report itself — SUMIFS, Monday 08:00 trigger, email summary, 295 SAMPLE lines|Google Apps Script · SQL · Excel|[p16-google-sheets-automation](https://github.com/mhkh-stock/p16-google-sheets-automation)|
 |Website Traffic & Conversion Report|GA4-style channels, landing pages, devices + funnel — 202,793 SAMPLE sessions, PKR 12.91M revenue, add-to-cart leak 12.07%|Python · SQL · SQLite · Excel|[p17-website-traffic-conversion-report](https://github.com/mhkh-stock/p17-website-traffic-conversion-report)|
 
+### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
+
+| Project | What I did | Tools | Repo |
+|---------|------------|-------|------|
+| Titanic Survival Classification | Kaggle data, 891 passengers — Logistic Regression 85.5% accuracy, ROC-AUC 0.876 | Python · scikit-learn | [titanic-survival-classification](https://github.com/mhkh-stock/titanic-survival-classification) |
+| Apple Stock Price Prediction | AAPL daily prices 2020–2026, 1,726 days — honest result: a simple baseline beats both models | Python · scikit-learn · yfinance | [aapl-stock-price-prediction](https://github.com/mhkh-stock/aapl-stock-price-prediction) |
+
 ### 🌐 Live Web Applications — full-stack products
 
 *Complete, working websites — not demos. Each one runs on Node.js + SQLite with zero dependencies, has its own live site and public code, and solves a real Pakistan-specific gap (no equivalent structured, verified directory exists for any of them).*
