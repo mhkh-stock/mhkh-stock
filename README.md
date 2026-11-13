@@ -74,6 +74,7 @@
 |RFM Customer Segmentation Report|500 customers → 7 RFM segments, PKR 3.12M revenue at stake, live-formula workbook|Python · SQL · SQLite · Excel|[p14-rfm-customer-segmentation](https://github.com/mhkh-stock/p14-rfm-customer-segmentation)|
 |Sales Forecast Pack|6-month forecast + what-if sheet from 22 months of SAMPLE history, MAPE 4.82%|Python · SQL · SQLite · Excel|[p15-sales-forecast-pack](https://github.com/mhkh-stock/p15-sales-forecast-pack)|
 |Google Sheets Automation Pack|Apps Script builds the weekly report itself — SUMIFS, Monday 08:00 trigger, email summary, 295 SAMPLE lines|Google Apps Script · SQL · Excel|[p16-google-sheets-automation](https://github.com/mhkh-stock/p16-google-sheets-automation)|
+|Website Traffic & Conversion Report|GA4-style channels, landing pages, devices + funnel — 202,793 SAMPLE sessions, PKR 12.91M revenue, add-to-cart leak 12.07%|Python · SQL · SQLite · Excel|[p17-website-traffic-conversion-report](https://github.com/mhkh-stock/p17-website-traffic-conversion-report)|
 
 ### 🌐 Live Web Applications — full-stack products
 
@@ -105,6 +106,7 @@
 |SQL Subqueries & EXISTS|Scalar, correlated, IN, EXISTS/NOT EXISTS — 10 business queries, 30 checks|[mini10-sql-subqueries-exists](https://github.com/mhkh-stock/mini10-sql-subqueries-exists)|
 |Excel Pivot Tables & Charts|10 pivot techniques + 3 native charts on one SAMPLE shop, PKR 346,800|[mini11-excel-pivot-tables-charts](https://github.com/mhkh-stock/mini11-excel-pivot-tables-charts)|
 |Statistics — Correlation & Regression|Pearson/Spearman + 2 OLS regressions, 24 months SAMPLE data, R² 0.74|[mini12-statistics-correlation-regression](https://github.com/mhkh-stock/mini12-statistics-correlation-regression)|
+|Python pandas Data Cleaning|10 cleaning techniques before/after — 131 messy rows → 114 clean, 73 cells fixed|[mini13-python-pandas-data-cleaning](https://github.com/mhkh-stock/mini13-python-pandas-data-cleaning)|
 
 ### 🐍 Foundations
 
