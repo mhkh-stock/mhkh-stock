@@ -20,6 +20,10 @@
 
 ---
 
+## 🌐 My Portfolio
+
+**[Visit my portfolio →](https://mhkh-stock.github.io/portfolio/)** — who I am, what I build, my live projects, services and how to reach me. ([Source code](https://github.com/mhkh-stock/portfolio))
+
 ## ✨ Featured Work
 
 | Project | Outcome | Stack |
