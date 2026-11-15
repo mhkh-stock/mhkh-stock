@@ -76,6 +76,7 @@
 |Google Sheets Automation Pack|Apps Script builds the weekly report itself — SUMIFS, Monday 08:00 trigger, email summary, 295 SAMPLE lines|Google Apps Script · SQL · Excel|[p16-google-sheets-automation](https://github.com/mhkh-stock/p16-google-sheets-automation)|
 |Website Traffic & Conversion Report|GA4-style channels, landing pages, devices + funnel — 202,793 SAMPLE sessions, PKR 12.91M revenue, add-to-cart leak 12.07%|Python · SQL · SQLite · Excel|[p17-website-traffic-conversion-report](https://github.com/mhkh-stock/p17-website-traffic-conversion-report)|
 |Customer Review Sentiment Analysis|780 SAMPLE reviews → sentiment by product + channel, lexicon scoring, 2-page report + live-formula workbook|Python · SQL · SQLite · Excel|[p18-customer-review-sentiment-analysis](https://github.com/mhkh-stock/p18-customer-review-sentiment-analysis)|
+|Supplier / Vendor Performance Report|240 SAMPLE POs → on-time, quality, cost + lead-time scorecard, 12 suppliers, PKR 17.04M spend|Python · Excel|[p19-supplier-vendor-performance-report](https://github.com/mhkh-stock/p19-supplier-vendor-performance-report)|
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -116,6 +117,7 @@
 |Statistics — Correlation & Regression|Pearson/Spearman + 2 OLS regressions, 24 months SAMPLE data, R² 0.74|[mini12-statistics-correlation-regression](https://github.com/mhkh-stock/mini12-statistics-correlation-regression)|
 |Python pandas Data Cleaning|10 cleaning techniques before/after — 131 messy rows → 114 clean, 73 cells fixed|[mini13-python-pandas-data-cleaning](https://github.com/mhkh-stock/mini13-python-pandas-data-cleaning)|
 |Power BI One-Pager: Hotel Booking & Revenue|Star-schema model + 11 DAX measures + build guide, 598 bookings, PKR 18.13M revenue|[mini14-powerbi-hotel-one-pager](https://github.com/mhkh-stock/mini14-powerbi-hotel-one-pager)|
+|SQL Advanced Patterns|Recursive CTEs, gaps-and-islands, window frames, LAG, NTILE, pivots, set ops — 10 queries, 59 checks|[mini15-sql-advanced-patterns](https://github.com/mhkh-stock/mini15-sql-advanced-patterns)|
 
 ### 🐍 Foundations
 
