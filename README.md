@@ -39,7 +39,7 @@
 | Dashboards | One-page KPI view of your business | [Excel Sales Dashboard](https://github.com/mhkh-stock/p1-excel-sales-dashboard) |
 | Data cleaning | Clean, usable data + a report of what was fixed | [Messy Data Cleaning](https://github.com/mhkh-stock/p2-messy-data-cleaning) |
 | Scraping & lead lists | Competitor prices or ready-to-call leads in Excel | [Price Tracker](https://github.com/mhkh-stock/p4-ecommerce-price-tracker) · [Lead List](https://github.com/mhkh-stock/p5-google-maps-lead-list) |
-| Automated reporting | Reports that build themselves, every month | Next build: P7 Automated Monthly Report |
+| Automated reporting | Reports that build themselves, every month | [Automated Monthly Report](https://github.com/mhkh-stock/p7-automated-monthly-report) |
 
 ---
 
@@ -69,20 +69,20 @@
 | Google Maps Lead List | 74 Gulberg, Lahore leads from OpenStreetMap | Python · SQLite | [p5-google-maps-lead-list](https://github.com/mhkh-stock/p5-google-maps-lead-list) |
 | PDF → Excel Conversion Pipeline | 5 invoices → 20-line workbook, totals reconciled | Python (PyMuPDF) | [p6-pdf-to-excel-conversion](https://github.com/mhkh-stock/p6-pdf-to-excel-conversion) |
 | Automated Monthly Report | Live-formula report + Google Sheets automation, 560 SAMPLE lines | Excel · Google Apps Script | [p7-automated-monthly-report](https://github.com/mhkh-stock/p7-automated-monthly-report) |
-|Inventory & Stock Tracker|Inventory tracker workbook - stock levels, reorder flags, SAMPLE data|Excel, Python|[p8-inventory-stock-tracker](https://github.com/mhkh-stock/p8-inventory-stock-tracker)|
-|Instagram Business Analytics Report|90-day engagement audit - reach, engagement rate by format, top posts, actions|Python, PDF|[p9-instagram-analytics-report](https://github.com/mhkh-stock/p9-instagram-analytics-report)|
-|Food-Delivery Sales Analysis|Power BI dashboard + 2-page best-sellers report, 1,800 SAMPLE orders|Power BI · SQL · Python|[p10-food-delivery-sales-analysis](https://github.com/mhkh-stock/p10-food-delivery-sales-analysis)|
-|HR Attendance & Payroll Dashboard|24-employee attendance + payroll workbook, live formulas, 64 checks|Excel · Python|[p11-hr-attendance-payroll-dashboard](https://github.com/mhkh-stock/p11-hr-attendance-payroll-dashboard)|
-|Real-Estate Listings Scraper + Price Analysis|16 scraped listings → area price analysis + live-formula dashboard workbook|Python · SQLite · Excel|[p12-real-estate-listings-scraper](https://github.com/mhkh-stock/p12-real-estate-listings-scraper)|
-|Data Quality Audit Pack|1,524-row audit — 300 defects found, fixed file + 10 SQL checks to keep|Python · SQL · SQLite · Excel|[p13-data-quality-audit-pack](https://github.com/mhkh-stock/p13-data-quality-audit-pack)|
-|RFM Customer Segmentation Report|500 customers → 7 RFM segments, PKR 3.12M revenue at stake, live-formula workbook|Python · SQL · SQLite · Excel|[p14-rfm-customer-segmentation](https://github.com/mhkh-stock/p14-rfm-customer-segmentation)|
-|Sales Forecast Pack|6-month forecast + what-if sheet from 22 months of SAMPLE history, MAPE 4.82%|Python · SQL · SQLite · Excel|[p15-sales-forecast-pack](https://github.com/mhkh-stock/p15-sales-forecast-pack)|
-|Google Sheets Automation Pack|Apps Script builds the weekly report itself — SUMIFS, Monday 08:00 trigger, email summary, 295 SAMPLE lines|Google Apps Script · SQL · Excel|[p16-google-sheets-automation](https://github.com/mhkh-stock/p16-google-sheets-automation)|
-|Website Traffic & Conversion Report|GA4-style channels, landing pages, devices + funnel — 202,793 SAMPLE sessions, PKR 12.91M revenue, add-to-cart leak 12.07%|Python · SQL · SQLite · Excel|[p17-website-traffic-conversion-report](https://github.com/mhkh-stock/p17-website-traffic-conversion-report)|
-|Customer Review Sentiment Analysis|780 SAMPLE reviews → sentiment by product + channel, lexicon scoring, 2-page report + live-formula workbook|Python · SQL · SQLite · Excel|[p18-customer-review-sentiment-analysis](https://github.com/mhkh-stock/p18-customer-review-sentiment-analysis)|
-|Supplier / Vendor Performance Report|240 SAMPLE POs → on-time, quality, cost + lead-time scorecard, 12 suppliers, PKR 17.04M spend|Python · Excel|[p19-supplier-vendor-performance-report](https://github.com/mhkh-stock/p19-supplier-vendor-performance-report)|
-|Customer Feedback Survey Analysis|350 SAMPLE responses → NPS 16.29, driver analysis (delivery speed first), branch + channel breakdown, 2-page report + live-formula workbook|Python · Excel|[p20-customer-feedback-survey-analysis](https://github.com/mhkh-stock/p20-customer-feedback-survey-analysis)|
-|E-commerce Returns & Refunds Analysis|1,200 SAMPLE orders → 18.08% return rate, PKR 616,028 money lost, wrong size top reason, Fashion worst category, 2-page report + live-formula workbook|Python · Excel|[p21-ecommerce-returns-refunds-analysis](https://github.com/mhkh-stock/p21-ecommerce-returns-refunds-analysis)|
+| Inventory & Stock Tracker | Inventory tracker workbook - stock levels, reorder flags, SAMPLE data | Excel, Python | [p8-inventory-stock-tracker](https://github.com/mhkh-stock/p8-inventory-stock-tracker) |
+| Instagram Business Analytics Report | 90-day engagement audit - reach, engagement rate by format, top posts, actions | Python, PDF | [p9-instagram-analytics-report](https://github.com/mhkh-stock/p9-instagram-analytics-report) |
+| Food-Delivery Sales Analysis | Power BI dashboard + 2-page best-sellers report, 1,800 SAMPLE orders | Power BI · SQL · Python | [p10-food-delivery-sales-analysis](https://github.com/mhkh-stock/p10-food-delivery-sales-analysis) |
+| HR Attendance & Payroll Dashboard | 24-employee attendance + payroll workbook, live formulas, 64 checks | Excel · Python | [p11-hr-attendance-payroll-dashboard](https://github.com/mhkh-stock/p11-hr-attendance-payroll-dashboard) |
+| Real-Estate Listings Scraper + Price Analysis | 16 scraped listings → area price analysis + live-formula dashboard workbook | Python · SQLite · Excel | [p12-real-estate-listings-scraper](https://github.com/mhkh-stock/p12-real-estate-listings-scraper) |
+| Data Quality Audit Pack | 1,524-row audit — 300 defects found, fixed file + 10 SQL checks to keep | Python · SQL · SQLite · Excel | [p13-data-quality-audit-pack](https://github.com/mhkh-stock/p13-data-quality-audit-pack) |
+| RFM Customer Segmentation Report | 500 customers → 7 RFM segments, PKR 3.12M revenue at stake, live-formula workbook | Python · SQL · SQLite · Excel | [p14-rfm-customer-segmentation](https://github.com/mhkh-stock/p14-rfm-customer-segmentation) |
+| Sales Forecast Pack | 6-month forecast + what-if sheet from 22 months of SAMPLE history, MAPE 4.82% | Python · SQL · SQLite · Excel | [p15-sales-forecast-pack](https://github.com/mhkh-stock/p15-sales-forecast-pack) |
+| Google Sheets Automation Pack | Apps Script builds the weekly report itself — SUMIFS, Monday 08:00 trigger, email summary, 295 SAMPLE lines | Google Apps Script · SQL · Excel | [p16-google-sheets-automation](https://github.com/mhkh-stock/p16-google-sheets-automation) |
+| Website Traffic & Conversion Report | GA4-style channels, landing pages, devices + funnel — 202,793 SAMPLE sessions, PKR 12.91M revenue, add-to-cart leak 12.07% | Python · SQL · SQLite · Excel | [p17-website-traffic-conversion-report](https://github.com/mhkh-stock/p17-website-traffic-conversion-report) |
+| Customer Review Sentiment Analysis | 780 SAMPLE reviews → sentiment by product + channel, lexicon scoring, 2-page report + live-formula workbook | Python · SQL · SQLite · Excel | [p18-customer-review-sentiment-analysis](https://github.com/mhkh-stock/p18-customer-review-sentiment-analysis) |
+| Supplier / Vendor Performance Report | 240 SAMPLE POs → on-time, quality, cost + lead-time scorecard, 12 suppliers, PKR 17.04M spend | Python · Excel | [p19-supplier-vendor-performance-report](https://github.com/mhkh-stock/p19-supplier-vendor-performance-report) |
+| Customer Feedback Survey Analysis | 350 SAMPLE responses → NPS 16.29, driver analysis (delivery speed first), branch + channel breakdown, 2-page report + live-formula workbook | Python · Excel | [p20-customer-feedback-survey-analysis](https://github.com/mhkh-stock/p20-customer-feedback-survey-analysis) |
+| E-commerce Returns & Refunds Analysis | 1,200 SAMPLE orders → 18.08% return rate, PKR 616,028 money lost, wrong size top reason, Fashion worst category, 2-page report + live-formula workbook | Python · Excel | [p21-ecommerce-returns-refunds-analysis](https://github.com/mhkh-stock/p21-ecommerce-returns-refunds-analysis) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -99,7 +99,7 @@
 
 ### 🌐 Live Web Applications — full-stack products
 
-*Complete, working websites — not demos. Each one runs on Node.js + SQLite with zero dependencies, has its own live site and public code, and solves a real Pakistan-specific gap (no equivalent structured, verified directory exists for any of them).*
+*Complete, working websites — not demos. Each one runs on Node.js + SQLite with zero dependencies, has its own public code, and a live site where one is available, and solves a real Pakistan-specific gap (no equivalent structured, verified directory exists for any of them).*
 
 | Project | What it does | Stack | Repo | Live |
 |---------|--------------|-------|------|------|
@@ -121,20 +121,20 @@
 | SQL Window Functions | RANK, ROW_NUMBER, LAG, NTILE, moving windows | [mini1-sql-window-functions](https://github.com/mhkh-stock/mini1-sql-window-functions) |
 | Excel Budget & Expense Tracker | Live-formula workbook, overspend flags that work | [mini2-excel-budget-tracker](https://github.com/mhkh-stock/mini2-excel-budget-tracker) |
 | SQL CTEs & Joins | Anti-joins, month spines, CTE join-backs, self-joins | [mini3-sql-cte-joins](https://github.com/mhkh-stock/mini3-sql-cte-joins) |
-| SQL Data Quality Checks | 10 DQ checks, 11 planted defects found exactly | SQL · SQLite | [mini4-sql-data-quality-checks](https://github.com/mhkh-stock/mini4-sql-data-quality-checks) |
-|Statistics & A/B Testing|Conversion rates, z-test, 95% CI, SRM check|[mini5-statistics-ab-testing](https://github.com/mhkh-stock/mini5-statistics-ab-testing)|
-|Excel Advanced Formulas & Lookups|XLOOKUP, INDEX+MATCH, VLOOKUP, SUMIFS, IFS - 10 live-formula techniques|[mini6-excel-formulas-lookups](https://github.com/mhkh-stock/mini6-excel-formulas-lookups)|
-|Python ETL: API → SQLite|Live weather API → SQLite, 6 Pakistani cities, 16 DQ checks|[mini7-python-etl-api-sqlite](https://github.com/mhkh-stock/mini7-python-etl-api-sqlite)|
-|SQL Date & Time Analysis|MoM/YoY growth, running totals, weekday seasonality, aging buckets|[mini8-sql-date-time-analysis](https://github.com/mhkh-stock/mini8-sql-date-time-analysis)|
-|Power BI One-Pager: Gym Membership|Star-schema model + 9 DAX measures + build guide, 60 members, PKR 1.56M revenue|[mini9-powerbi-gym-one-pager](https://github.com/mhkh-stock/mini9-powerbi-gym-one-pager)|
-|SQL Subqueries & EXISTS|Scalar, correlated, IN, EXISTS/NOT EXISTS — 10 business queries, 30 checks|[mini10-sql-subqueries-exists](https://github.com/mhkh-stock/mini10-sql-subqueries-exists)|
-|Excel Pivot Tables & Charts|10 pivot techniques + 3 native charts on one SAMPLE shop, PKR 346,800|[mini11-excel-pivot-tables-charts](https://github.com/mhkh-stock/mini11-excel-pivot-tables-charts)|
-|Statistics — Correlation & Regression|Pearson/Spearman + 2 OLS regressions, 24 months SAMPLE data, R² 0.74|[mini12-statistics-correlation-regression](https://github.com/mhkh-stock/mini12-statistics-correlation-regression)|
-|Python pandas Data Cleaning|10 cleaning techniques before/after — 131 messy rows → 114 clean, 73 cells fixed|[mini13-python-pandas-data-cleaning](https://github.com/mhkh-stock/mini13-python-pandas-data-cleaning)|
-|Power BI One-Pager: Hotel Booking & Revenue|Star-schema model + 11 DAX measures + build guide, 598 bookings, PKR 18.13M revenue|[mini14-powerbi-hotel-one-pager](https://github.com/mhkh-stock/mini14-powerbi-hotel-one-pager)|
-|SQL Advanced Patterns|Recursive CTEs, gaps-and-islands, window frames, LAG, NTILE, pivots, set ops — 10 queries, 59 checks|[mini15-sql-advanced-patterns](https://github.com/mhkh-stock/mini15-sql-advanced-patterns)|
-|SQL Data Modelling & Star Schema|Grain statement, SCD Type 2 price history, conformed dimensions, star joins — 10 queries, 68 checks|[mini16-sql-data-modelling-star-schema](https://github.com/mhkh-stock/mini16-sql-data-modelling-star-schema)|
-|Excel What-If & Scenario Analysis|Goal Seek, 1-var + 2-var data tables, 3 scenarios, break-even — pricing decision on one SAMPLE product, 181 checks|[mini17-excel-whatif-scenario-analysis](https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis)|
+| SQL Data Quality Checks | 10 DQ checks, 11 planted defects found exactly (SQL · SQLite) | [mini4-sql-data-quality-checks](https://github.com/mhkh-stock/mini4-sql-data-quality-checks) |
+| Statistics & A/B Testing | Conversion rates, z-test, 95% CI, SRM check | [mini5-statistics-ab-testing](https://github.com/mhkh-stock/mini5-statistics-ab-testing) |
+| Excel Advanced Formulas & Lookups | XLOOKUP, INDEX+MATCH, VLOOKUP, SUMIFS, IFS - 10 live-formula techniques | [mini6-excel-formulas-lookups](https://github.com/mhkh-stock/mini6-excel-formulas-lookups) |
+| Python ETL: API → SQLite | Live weather API → SQLite, 6 Pakistani cities, 16 DQ checks | [mini7-python-etl-api-sqlite](https://github.com/mhkh-stock/mini7-python-etl-api-sqlite) |
+| SQL Date & Time Analysis | MoM/YoY growth, running totals, weekday seasonality, aging buckets | [mini8-sql-date-time-analysis](https://github.com/mhkh-stock/mini8-sql-date-time-analysis) |
+| Power BI One-Pager: Gym Membership | Star-schema model + 9 DAX measures + build guide, 60 members, PKR 1.56M revenue | [mini9-powerbi-gym-one-pager](https://github.com/mhkh-stock/mini9-powerbi-gym-one-pager) |
+| SQL Subqueries & EXISTS | Scalar, correlated, IN, EXISTS/NOT EXISTS — 10 business queries, 30 checks | [mini10-sql-subqueries-exists](https://github.com/mhkh-stock/mini10-sql-subqueries-exists) |
+| Excel Pivot Tables & Charts | 10 pivot techniques + 3 native charts on one SAMPLE shop, PKR 346,800 | [mini11-excel-pivot-tables-charts](https://github.com/mhkh-stock/mini11-excel-pivot-tables-charts) |
+| Statistics — Correlation & Regression | Pearson/Spearman + 2 OLS regressions, 24 months SAMPLE data, R² 0.74 | [mini12-statistics-correlation-regression](https://github.com/mhkh-stock/mini12-statistics-correlation-regression) |
+| Python pandas Data Cleaning | 10 cleaning techniques before/after — 131 messy rows → 114 clean, 73 cells fixed | [mini13-python-pandas-data-cleaning](https://github.com/mhkh-stock/mini13-python-pandas-data-cleaning) |
+| Power BI One-Pager: Hotel Booking & Revenue | Star-schema model + 11 DAX measures + build guide, 598 bookings, PKR 18.13M revenue | [mini14-powerbi-hotel-one-pager](https://github.com/mhkh-stock/mini14-powerbi-hotel-one-pager) |
+| SQL Advanced Patterns | Recursive CTEs, gaps-and-islands, window frames, LAG, NTILE, pivots, set ops — 10 queries, 59 checks | [mini15-sql-advanced-patterns](https://github.com/mhkh-stock/mini15-sql-advanced-patterns) |
+| SQL Data Modelling & Star Schema | Grain statement, SCD Type 2 price history, conformed dimensions, star joins — 10 queries, 68 checks | [mini16-sql-data-modelling-star-schema](https://github.com/mhkh-stock/mini16-sql-data-modelling-star-schema) |
+| Excel What-If & Scenario Analysis | Goal Seek, 1-var + 2-var data tables, 3 scenarios, break-even — pricing decision on one SAMPLE product, 181 checks | [mini17-excel-whatif-scenario-analysis](https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis) |
 
 ### 🐍 Foundations
 
@@ -189,7 +189,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-mhkh3200@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhkh3200@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-@mhkh--stock-181717?style=flat&logo=github&logoColor=white)](https://github.com/mhkh-stock)
+[![Email](https://img.shields.io/badge/Email-mhkh3200@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhkh3200@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-@mhkh--stock-181717?style=flat&logo=github&logoColor=white)](https://github.com/mhkh-stock) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Hashir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir-7a6b96384) [![Fiverr](https://img.shields.io/badge/Fiverr-Amazon_VA-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/hashiramazonva)
 
 *Open to data analyst internships and freelance data work — dashboards, data cleaning, scraping, and automated reporting.*
 
