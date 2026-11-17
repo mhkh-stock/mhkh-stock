@@ -125,7 +125,7 @@
 | SQL Window Functions | RANK, ROW_NUMBER, LAG, NTILE, moving windows | [mini1-sql-window-functions](https://github.com/mhkh-stock/mini1-sql-window-functions) |
 | Excel Budget & Expense Tracker | Live-formula workbook, overspend flags that work | [mini2-excel-budget-tracker](https://github.com/mhkh-stock/mini2-excel-budget-tracker) |
 | SQL CTEs & Joins | Anti-joins, month spines, CTE join-backs, self-joins | [mini3-sql-cte-joins](https://github.com/mhkh-stock/mini3-sql-cte-joins) |
-| SQL Data Quality Checks | 10 DQ checks, 11 planted defects found exactly (SQL · SQLite) | [mini4-sql-data-quality-checks](https://github.com/mhkh-stock/mini4-sql-data-quality-checks) |
+| SQL Data Quality Checks | 10 DQ checks, 13 planted defects found exactly (SQL · SQLite) | [mini4-sql-data-quality-checks](https://github.com/mhkh-stock/mini4-sql-data-quality-checks) |
 | Statistics & A/B Testing | Conversion rates, z-test, 95% CI, SRM check | [mini5-statistics-ab-testing](https://github.com/mhkh-stock/mini5-statistics-ab-testing) |
 | Excel Advanced Formulas & Lookups | XLOOKUP, INDEX+MATCH, VLOOKUP, SUMIFS, IFS - 10 live-formula techniques | [mini6-excel-formulas-lookups](https://github.com/mhkh-stock/mini6-excel-formulas-lookups) |
 | Python ETL: API → SQLite | Live weather API → SQLite, 6 Pakistani cities, 16 DQ checks | [mini7-python-etl-api-sqlite](https://github.com/mhkh-stock/mini7-python-etl-api-sqlite) |
