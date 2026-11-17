@@ -91,6 +91,12 @@
 | Titanic Survival Classification | Kaggle data, 891 passengers — Logistic Regression 85.5% accuracy, ROC-AUC 0.876 | Python · scikit-learn | [titanic-survival-classification](https://github.com/mhkh-stock/titanic-survival-classification) |
 | Apple Stock Price Prediction | AAPL daily prices 2020–2026, 1,726 days — honest result: a simple baseline beats both models | Python · scikit-learn · yfinance | [aapl-stock-price-prediction](https://github.com/mhkh-stock/aapl-stock-price-prediction) |
 
+### 🎓 University Team Project — Agri-Grid (UET)
+
+| Project | My role | What it is | Repo |
+|---------|---------|------------|------|
+| Agri-Grid | QA & DevOps Engineer | Smart agriculture platform — decentralized farm data; testing lead, all suites passed on a fresh database, testing documentation (team project — Ameer Muawiyah is Scrum Master) | [AgriGrid](https://github.com/mhkh-stock/AgriGrid) |
+
 ### 🌐 Live Web Applications — full-stack products
 
 *Complete, working websites — not demos. Each one runs on Node.js + SQLite with zero dependencies, has its own live site and public code, and solves a real Pakistan-specific gap (no equivalent structured, verified directory exists for any of them).*
@@ -102,8 +108,11 @@
 | My Mehngai Index | Personal basket inflation vs the official PBS weekly SPI — 51-item tracker, quintile table, spending-weighted personal inflation | Node.js · SQLite | [mehngai-index](https://github.com/mhkh-stock/mehngai-index) | Code complete — live deploy pending a free hosting slot |
 | Salary Reality Index | Anonymous salary reports with admin approval, medians by role / city / experience, plus published reference figures with source and sample size | Node.js · SQLite | [salary-reality-index](https://github.com/mhkh-stock/salary-reality-index) | Code complete — live deploy pending a free hosting slot |
 | Hostel + Mess Index | Verified vs listed hostel rents + mess rates by university area, price history on every change, monthly total calculator | Node.js · SQLite | [hostel-mess-index](https://github.com/mhkh-stock/hostel-mess-index) | Code complete — live deploy pending a free hosting slot |
-| Loan Payback Calculator | What a loan from a Pakistani app really costs — 51 presets across banks, wallets, BNPL and licensed nano apps, late fees over time | Node.js · SQLite | [loan-payback-calculator](https://github.com/mhkh-stock/loan-payback-calculator) | Code complete — live deploy pending a free hosting slot |
+| Loan Payback Calculator | What a loan from a Pakistani app really costs — 51 presets across banks, wallets, BNPL and licensed nano apps, late fees over time | Node.js · SQLite | [loan-payback-calculator](https://github.com/mhkh-stock/loan-payback-calculator) | [Live site](https://mhkh-stock.github.io/loan-payback-calculator/) (live on GitHub Pages) |
 | Ghar ka Register | One private, PIN-locked home book for a Pakistani household — staff pay and advances, daily deliveries, money lent and borrowed, bill due dates, documents and their expiry, and the medicine cabinet — free, open-source, local-first, nothing ever leaves the device | Node.js · SQLite | [ghar-ka-register](https://github.com/mhkh-stock/ghar-ka-register) | Code complete — live deploy pending a free hosting slot |
+| Ciral | Pakistani e-commerce store + admin — products, cart, COD / bank / JazzCash / Easypaisa, admin panel | Node.js · SQLite | [ciral-ecommerce](https://github.com/mhkh-stock/ciral-ecommerce) | [Live site](https://ciral-ecommerce-5e001.containers.snapdeploy.app/) (v3.0.1 live) |
+| FoodScope | Pakistani food-vendor directory — search, category / city filters, menus in PKR, gallery, ratings, reviews | Node.js · SQLite | [foodscope](https://github.com/mhkh-stock/foodscope) | [Live site](https://foodscope-5e001.containers.snapdeploy.app/) (v2 live) |
+| Kiraya Register | Owner + tenant rent book — house codes, monthly bills, paid-bill photo proof, receipts, WhatsApp-like chat | Node.js · SQLite | [kiraya-register](https://github.com/mhkh-stock/kiraya-register) | Code complete — live deploy pending a free hosting slot |
 
 ### 📊 Mini Skill Packs — live repos
 
@@ -176,7 +185,7 @@
 ## 🔨 Currently Building
 
 - **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; Phase C RFM + churn done 7 Nov 2026 — 70.01% churned, 617 at-risk repeat buyers; Phase D validation done 8 Nov 2026 — all 11 headlines reconcile three ways; live 27 Nov 2026).
-- **Next:** Mandi Price Intelligence v3.0 is live and Bijli Map v2.0 is live. Loan Payback Calculator, Ghar ka Register, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
+- **Next:** Mandi Price Intelligence v3.0 is live and Bijli Map v2.0 is live. Loan Payback Calculator is live on GitHub Pages. Ghar ka Register, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
 
 ## 📫 Contact
 
