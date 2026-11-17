@@ -18,6 +18,10 @@
   <b>Open to data analyst internships and freelance data work.</b>
 </p>
 
+<p align="center">
+  <img src="assets/greeting.svg" alt="Time-based greeting from Pakistan" width="880" />
+</p>
+
 ---
 
 ## 🌐 My Portfolio
