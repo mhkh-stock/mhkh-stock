@@ -1,0 +1,31 @@
+name: Time greeting
+
+# Regenerates the profile's time-of-day greeting banner (assets/greeting.svg)
+# from Pakistan time (PKT). Commits only when the banner actually changes
+# (the greeting flips 4 times a day), so the repo stays quiet in between.
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate greeting
+        run: python3 scripts/generate_greeting.py
+      - name: Commit if changed
+        run: |
+          git config user.name "hasho"
+          git config user.email "mhkh3200@gmail.com"
+          git add assets/greeting.svg
+          git diff --cached --quiet || git commit -m "Update time greeting"
+          git pull --rebase || true
+          git push || true
