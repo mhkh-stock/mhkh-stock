@@ -82,6 +82,7 @@
 |Customer Review Sentiment Analysis|780 SAMPLE reviews → sentiment by product + channel, lexicon scoring, 2-page report + live-formula workbook|Python · SQL · SQLite · Excel|[p18-customer-review-sentiment-analysis](https://github.com/mhkh-stock/p18-customer-review-sentiment-analysis)|
 |Supplier / Vendor Performance Report|240 SAMPLE POs → on-time, quality, cost + lead-time scorecard, 12 suppliers, PKR 17.04M spend|Python · Excel|[p19-supplier-vendor-performance-report](https://github.com/mhkh-stock/p19-supplier-vendor-performance-report)|
 |Customer Feedback Survey Analysis|350 SAMPLE responses → NPS 16.29, driver analysis (delivery speed first), branch + channel breakdown, 2-page report + live-formula workbook|Python · Excel|[p20-customer-feedback-survey-analysis](https://github.com/mhkh-stock/p20-customer-feedback-survey-analysis)|
+|E-commerce Returns & Refunds Analysis|1,200 SAMPLE orders → 18.08% return rate, PKR 616,028 money lost, wrong size top reason, Fashion worst category, 2-page report + live-formula workbook|Python · Excel|[p21-ecommerce-returns-refunds-analysis](https://github.com/mhkh-stock/p21-ecommerce-returns-refunds-analysis)|
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -124,6 +125,7 @@
 |Power BI One-Pager: Hotel Booking & Revenue|Star-schema model + 11 DAX measures + build guide, 598 bookings, PKR 18.13M revenue|[mini14-powerbi-hotel-one-pager](https://github.com/mhkh-stock/mini14-powerbi-hotel-one-pager)|
 |SQL Advanced Patterns|Recursive CTEs, gaps-and-islands, window frames, LAG, NTILE, pivots, set ops — 10 queries, 59 checks|[mini15-sql-advanced-patterns](https://github.com/mhkh-stock/mini15-sql-advanced-patterns)|
 |SQL Data Modelling & Star Schema|Grain statement, SCD Type 2 price history, conformed dimensions, star joins — 10 queries, 68 checks|[mini16-sql-data-modelling-star-schema](https://github.com/mhkh-stock/mini16-sql-data-modelling-star-schema)|
+|Excel What-If & Scenario Analysis|Goal Seek, 1-var + 2-var data tables, 3 scenarios, break-even — pricing decision on one SAMPLE product, 181 checks|[mini17-excel-whatif-scenario-analysis](https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis)|
 
 ### 🐍 Foundations
 
