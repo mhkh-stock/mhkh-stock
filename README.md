@@ -87,6 +87,7 @@
 | Supplier / Vendor Performance Report | 240 SAMPLE POs → on-time, quality, cost + lead-time scorecard, 12 suppliers, PKR 17.04M spend | Python · Excel | [p19-supplier-vendor-performance-report](https://github.com/mhkh-stock/p19-supplier-vendor-performance-report) |
 | Customer Feedback Survey Analysis | 350 SAMPLE responses → NPS 16.29, driver analysis (delivery speed first), branch + channel breakdown, 2-page report + live-formula workbook | Python · Excel | [p20-customer-feedback-survey-analysis](https://github.com/mhkh-stock/p20-customer-feedback-survey-analysis) |
 | E-commerce Returns & Refunds Analysis | 1,200 SAMPLE orders → 18.08% return rate, PKR 616,028 money lost, wrong size top reason, Fashion worst category, 2-page report + live-formula workbook | Python · Excel | [p21-ecommerce-returns-refunds-analysis](https://github.com/mhkh-stock/p21-ecommerce-returns-refunds-analysis) |
+| Sales Pipeline / CRM Dashboard | 156 SAMPLE deals → pipeline PKR 117.18M, win rate 34.78%, July forecast PKR 13.08M, rep leaderboard + biggest leak, 2-page report + live-formula workbook | Python · Excel | [p22-sales-pipeline-crm-dashboard](https://github.com/mhkh-stock/p22-sales-pipeline-crm-dashboard) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -139,6 +140,7 @@
 | SQL Advanced Patterns | Recursive CTEs, gaps-and-islands, window frames, LAG, NTILE, pivots, set ops — 10 queries, 59 checks | [mini15-sql-advanced-patterns](https://github.com/mhkh-stock/mini15-sql-advanced-patterns) |
 | SQL Data Modelling & Star Schema | Grain statement, SCD Type 2 price history, conformed dimensions, star joins — 10 queries, 68 checks | [mini16-sql-data-modelling-star-schema](https://github.com/mhkh-stock/mini16-sql-data-modelling-star-schema) |
 | Excel What-If & Scenario Analysis | Goal Seek, 1-var + 2-var data tables, 3 scenarios, break-even — pricing decision on one SAMPLE product, 181 checks | [mini17-excel-whatif-scenario-analysis](https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis) |
+| Python ETL #2 — Public API → SQLite | DummyJSON catalogue → SQLite star-lite schema, 194 products, 10 analysis queries, 58 checks | [mini18-python-etl-api-sqlite-2](https://github.com/mhkh-stock/mini18-python-etl-api-sqlite-2) |
 
 ### 🐍 Foundations
 
