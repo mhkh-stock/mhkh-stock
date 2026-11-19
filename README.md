@@ -88,6 +88,7 @@
 | Customer Feedback Survey Analysis | 350 SAMPLE responses → NPS 16.29, driver analysis (delivery speed first), branch + channel breakdown, 2-page report + live-formula workbook | Python · Excel | [p20-customer-feedback-survey-analysis](https://github.com/mhkh-stock/p20-customer-feedback-survey-analysis) |
 | E-commerce Returns & Refunds Analysis | 1,200 SAMPLE orders → 18.08% return rate, PKR 616,028 money lost, wrong size top reason, Fashion worst category, 2-page report + live-formula workbook | Python · Excel | [p21-ecommerce-returns-refunds-analysis](https://github.com/mhkh-stock/p21-ecommerce-returns-refunds-analysis) |
 | Sales Pipeline / CRM Dashboard | 156 SAMPLE deals → pipeline PKR 117.18M, win rate 34.78%, July forecast PKR 13.08M, rep leaderboard + biggest leak, 2-page report + live-formula workbook | Python · Excel | [p22-sales-pipeline-crm-dashboard](https://github.com/mhkh-stock/p22-sales-pipeline-crm-dashboard) |
+| Marketing Campaign ROI Tracker | 12 SAMPLE campaigns → spend PKR 5.69M vs revenue PKR 17.13M, ROAS 3.01x, kill/scale calls, 2-page report + live-formula workbook | Python · Excel | [p23-marketing-campaign-roi-tracker](https://github.com/mhkh-stock/p23-marketing-campaign-roi-tracker) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -141,6 +142,7 @@
 | SQL Data Modelling & Star Schema | Grain statement, SCD Type 2 price history, conformed dimensions, star joins — 10 queries, 68 checks | [mini16-sql-data-modelling-star-schema](https://github.com/mhkh-stock/mini16-sql-data-modelling-star-schema) |
 | Excel What-If & Scenario Analysis | Goal Seek, 1-var + 2-var data tables, 3 scenarios, break-even — pricing decision on one SAMPLE product, 181 checks | [mini17-excel-whatif-scenario-analysis](https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis) |
 | Python ETL #2 — Public API → SQLite | DummyJSON catalogue → SQLite star-lite schema, 194 products, 10 analysis queries, 58 checks | [mini18-python-etl-api-sqlite-2](https://github.com/mhkh-stock/mini18-python-etl-api-sqlite-2) |
+| Python pandas GroupBy, Pivot & Aggregation | 10 aggregation techniques — groupby, pivot tables, crosstabs, Pareto — 1,000 SAMPLE lines, PKR 39.94M, 341 checks | [mini19-python-pandas-groupby-pivot](https://github.com/mhkh-stock/mini19-python-pandas-groupby-pivot) |
 
 ### 🐍 Foundations
 
