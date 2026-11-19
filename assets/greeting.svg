@@ -1,39 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Good evening 👋 from Pakistan">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Good night 🌙 from Pakistan">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FF512F"/>
-      <stop offset="100%" stop-color="#DD2476"/>
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="100%" stop-color="#2C5364"/>
     </linearGradient>
   </defs>
   <rect width="880" height="200" rx="16" fill="url(#sky)"/>
-
-  <g fill="#FFFFFF" opacity="0.85">
-    <g>
-      <ellipse cx="330" cy="52" rx="52" ry="16"/>
-      <ellipse cx="360" cy="44" rx="40" ry="14"/>
-      <animateTransform attributeName="transform" type="translate"
-        values="-12 0; 12 0; -12 0" dur="26s" repeatCount="indefinite"/>
-    </g>
-    <g opacity="0.7">
-      <ellipse cx="640" cy="150" rx="60" ry="15"/>
-      <ellipse cx="672" cy="142" rx="44" ry="13"/>
-      <animateTransform attributeName="transform" type="translate"
-        values="10 0; -10 0; 10 0" dur="32s" repeatCount="indefinite"/>
-    </g>
-  </g>
-  <circle cx="110" cy="128" r="52" fill="#FFD54F" opacity="0.35">
+  <circle cx="210" cy="40" r="3.0" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.0s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="26" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.7s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="44" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="3.4s" begin="1.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="30" r="3.0" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="4.1s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="640" cy="52" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.0s" begin="2.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="730" cy="36" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.7s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="60" r="3.0" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="90" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="4.1s" begin="1.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="78" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.0s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="96" r="3.0" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.7s" begin="2.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="360" cy="84" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="3.4s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="470" cy="20" r="2.2" fill="#FFFFFF">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="4.1s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="110" cy="78" r="44" fill="#FFFDE7" opacity="0.35">
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="110" cy="128" r="36" fill="#FFC107">
+  <circle cx="110" cy="78" r="28" fill="#F5F3CE">
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="4s" repeatCount="indefinite"/>
   </circle>
+  <circle cx="120" cy="72" r="19" fill="#0F2027" opacity="0.9"/>
 
   <g text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <text x="470" y="98" font-size="46" font-weight="700" fill="#FFFFFF" opacity="1">
-      Good evening 👋
+      Good night 🌙
       <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
     </text>
-    <text x="470" y="140" font-size="19" font-weight="600" fill="#FFE3EE" opacity="1">
+    <text x="470" y="140" font-size="19" font-weight="600" fill="#C7D8E0" opacity="1">
       Nowshera, Pakistan · PKT
       <animate attributeName="opacity" values="0;1" dur="1s" begin="0.3s" fill="freeze"/>
     </text>
