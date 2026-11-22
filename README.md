@@ -91,6 +91,7 @@
 | Marketing Campaign ROI Tracker | 12 SAMPLE campaigns → spend PKR 5.69M vs revenue PKR 17.13M, ROAS 3.01x, kill/scale calls, 2-page report + live-formula workbook | Python · Excel | [p23-marketing-campaign-roi-tracker](https://github.com/mhkh-stock/p23-marketing-campaign-roi-tracker) |
 | Data Warehouse Starter Pack | 3 SAMPLE CSVs → star schema + dbt-style SQL models + 16 DQ tests, sales gross PKR 27.21M, margin 8.60%, stock PKR 7.72M, health workbook | SQL · Python · Excel | [p24-data-warehouse-starter-pack](https://github.com/mhkh-stock/p24-data-warehouse-starter-pack) |
 | Databricks-Style Medallion Lakehouse Starter Pack | 3 SAMPLE CSVs → bronze → silver → gold medallion lakehouse + 16 DQ tests, sales gross PKR 16.16M, margin 9.44%, inventory PKR 3.87M, health workbook + handover PDF | SQL · Python · Excel | [p25-databricks-style-lakehouse-pack](https://github.com/mhkh-stock/p25-databricks-style-lakehouse-pack) |
+| Process Improvement / Ops Efficiency Dashboard | 311 SAMPLE orders → bottleneck Printing +27.23% over plan, defect rate 3.63% vs 2.00% target, quality cost PKR 121,914, saving PKR 7.16M if fixed, 2-page report + live-formula workbook | SQL · Python · Excel | [p26-process-improvement-ops-efficiency-dashboard](https://github.com/mhkh-stock/p26-process-improvement-ops-efficiency-dashboard) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -147,6 +148,7 @@
 | Python pandas GroupBy, Pivot & Aggregation | 10 aggregation techniques — groupby, pivot tables, crosstabs, Pareto — 1,000 SAMPLE lines, PKR 39.94M, 341 checks | [mini19-python-pandas-groupby-pivot](https://github.com/mhkh-stock/mini19-python-pandas-groupby-pivot) |
 | SQL Data Lineage & Audit Trail | 10 lineage/audit queries — impact analysis, orphans, dead tables, lying audit row — 4 systems → 6 reports, 98 checks | [mini20-sql-data-lineage-audit-trail](https://github.com/mhkh-stock/mini20-sql-data-lineage-audit-trail) |
 | Python pandas Time Series & Resampling | 10 time-series techniques — resample, rolling averages, seasonality, decomposition, CAGR, naive forecasts — 1,096 SAMPLE days, PKR 309.42M, 652 checks | [mini21-python-pandas-time-series](https://github.com/mhkh-stock/mini21-python-pandas-time-series) |
+| Python pandas Merging, Joining & Lookup | 10 join techniques — inner/left/outer, multi-key, indicator, concat, map lookup, merge_asof, self-join, cross-join guard — 32 SAMPLE orders, PKR 346,800, 515 checks | [mini22-python-pandas-merging-joining](https://github.com/mhkh-stock/mini22-python-pandas-merging-joining) |
 
 ### 🐍 Foundations
 
