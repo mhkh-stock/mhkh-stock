@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Good afternoon 👋 from Pakistan">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Good evening 👋 from Pakistan">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#36D1DC"/>
-      <stop offset="100%" stop-color="#5B86E5"/>
+      <stop offset="0%" stop-color="#FF512F"/>
+      <stop offset="100%" stop-color="#DD2476"/>
     </linearGradient>
   </defs>
   <rect width="880" height="200" rx="16" fill="url(#sky)"/>
@@ -21,19 +21,19 @@
         values="10 0; -10 0; 10 0" dur="32s" repeatCount="indefinite"/>
     </g>
   </g>
-  <circle cx="110" cy="62" r="50" fill="#FFF9C4" opacity="0.35">
+  <circle cx="110" cy="128" r="52" fill="#FFD54F" opacity="0.35">
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="110" cy="62" r="34" fill="#FFF176">
+  <circle cx="110" cy="128" r="36" fill="#FFC107">
     <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="4s" repeatCount="indefinite"/>
   </circle>
 
   <g text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <text x="470" y="98" font-size="46" font-weight="700" fill="#FFFFFF" opacity="1">
-      Good afternoon 👋
+      Good evening 👋
       <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
     </text>
-    <text x="470" y="140" font-size="19" font-weight="600" fill="#EAF6FF" opacity="1">
+    <text x="470" y="140" font-size="19" font-weight="600" fill="#FFE3EE" opacity="1">
       Nowshera, Pakistan · PKT
       <animate attributeName="opacity" values="0;1" dur="1s" begin="0.3s" fill="freeze"/>
     </text>
