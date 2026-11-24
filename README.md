@@ -93,6 +93,7 @@
 | Databricks-Style Medallion Lakehouse Starter Pack | 3 SAMPLE CSVs → bronze → silver → gold medallion lakehouse + 16 DQ tests, sales gross PKR 16.16M, margin 9.44%, inventory PKR 3.87M, health workbook + handover PDF | SQL · Python · Excel | [p25-databricks-style-lakehouse-pack](https://github.com/mhkh-stock/p25-databricks-style-lakehouse-pack) |
 | Process Improvement / Ops Efficiency Dashboard | 311 SAMPLE orders → bottleneck Printing +27.23% over plan, defect rate 3.63% vs 2.00% target, quality cost PKR 121,914, saving PKR 7.16M if fixed, 2-page report + live-formula workbook | SQL · Python · Excel | [p26-process-improvement-ops-efficiency-dashboard](https://github.com/mhkh-stock/p26-process-improvement-ops-efficiency-dashboard) |
 | E-commerce Catalogue Extraction Pack | 147 live-scraped products (Laptops 117, Tablets 21, Touch 9) → catalogue value $114,877.78, mean price $781.48, avg rating 2.37, 0 price outliers, 2-page report + live-formula workbook | Python · SQL · SQLite · Excel | [p27-ecommerce-catalogue-extraction-pack](https://github.com/mhkh-stock/p27-ecommerce-catalogue-extraction-pack) |
+| Automated Pipeline + Power BI Dashboard Pack | 30 daily SAMPLE CSVs → star schema with SHA-256 load log, 2,094 orders, PKR 38,573,539.50, 14 DQ tests, 12 DAX measures, 2-page report + live-formula workbook | Python · SQL · SQLite · Power BI · Excel | [p28-automated-pipeline-powerbi-dashboard-pack](https://github.com/mhkh-stock/p28-automated-pipeline-powerbi-dashboard-pack) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -151,6 +152,7 @@
 | Python pandas Time Series & Resampling | 10 time-series techniques — resample, rolling averages, seasonality, decomposition, CAGR, naive forecasts — 1,096 SAMPLE days, PKR 309.42M, 652 checks | [mini21-python-pandas-time-series](https://github.com/mhkh-stock/mini21-python-pandas-time-series) |
 | Python pandas Merging, Joining & Lookup | 10 join techniques — inner/left/outer, multi-key, indicator, concat, map lookup, merge_asof, self-join, cross-join guard — 32 SAMPLE orders, PKR 346,800, 515 checks | [mini22-python-pandas-merging-joining](https://github.com/mhkh-stock/mini22-python-pandas-merging-joining) |
 | Python Data Visualisation | 10 chart techniques — line, bar, grouped bar, histogram, box plot, scatter, heatmap, pairplot, dual-axis, small multiples — 32 SAMPLE orders, PKR 346,800, 361 checks | [mini23-python-data-visualisation](https://github.com/mhkh-stock/mini23-python-data-visualisation) |
+| SQL Data Transformation | 10 transformation techniques — CASE, CAST, string/date cleaning, NULL rules, ROW_NUMBER dedup, CASE pivot, conditional aggregation, code splitting, full bronze→silver pipeline — 32 SAMPLE orders, PKR 346,800, 206 checks | [mini24-sql-data-transformation](https://github.com/mhkh-stock/mini24-sql-data-transformation) |
 
 ### 🐍 Foundations
 
