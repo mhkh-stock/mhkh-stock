@@ -95,6 +95,7 @@
 | E-commerce Catalogue Extraction Pack | 147 live-scraped products (Laptops 117, Tablets 21, Touch 9) → catalogue value $114,877.78, mean price $781.48, avg rating 2.37, 0 price outliers, 2-page report + live-formula workbook | Python · SQL · SQLite · Excel | [p27-ecommerce-catalogue-extraction-pack](https://github.com/mhkh-stock/p27-ecommerce-catalogue-extraction-pack) |
 | Automated Pipeline + Power BI Dashboard Pack | 30 daily SAMPLE CSVs → star schema with SHA-256 load log, 2,094 orders, PKR 38,573,539.50, 14 DQ tests, 12 DAX measures, 2-page report + live-formula workbook | Python · SQL · SQLite · Power BI · Excel | [p28-automated-pipeline-powerbi-dashboard-pack](https://github.com/mhkh-stock/p28-automated-pipeline-powerbi-dashboard-pack) |
 | Data Migration Readiness Audit | Legacy billing → cloud ERP, 810 SAMPLE rows → 676 migrated, 134 quarantined, money reconciled to the paisa (PKR 16.67M), CONDITIONAL GO with 5 cutover conditions, lineage doc + live-formula workbook | SQL · Python · Excel | [p29-data-migration-readiness-audit](https://github.com/mhkh-stock/p29-data-migration-readiness-audit) |
+| Executive KPI & Stakeholder Reporting Pack | Monthly one-page KPI pack + narrative — 12 SAMPLE months, 2,230 lines, annual net PKR 13.49M, Dec 2026 PKR 1.23M (−1.8% vs target, AMBER), 12 DAX measures, live-formula workbook + 1-page PDF | SQL · Python · Excel · Power BI | [p30-executive-kpi-stakeholder-reporting](https://github.com/mhkh-stock/p30-executive-kpi-stakeholder-reporting) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -155,6 +156,7 @@
 | Python Data Visualisation | 10 chart techniques — line, bar, grouped bar, histogram, box plot, scatter, heatmap, pairplot, dual-axis, small multiples — 32 SAMPLE orders, PKR 346,800, 361 checks | [mini23-python-data-visualisation](https://github.com/mhkh-stock/mini23-python-data-visualisation) |
 | SQL Data Transformation | 10 transformation techniques — CASE, CAST, string/date cleaning, NULL rules, ROW_NUMBER dedup, CASE pivot, conditional aggregation, code splitting, full bronze→silver pipeline — 32 SAMPLE orders, PKR 346,800, 206 checks | [mini24-sql-data-transformation](https://github.com/mhkh-stock/mini24-sql-data-transformation) |
 | Data Storytelling & Executive Summary | 10 storytelling techniques — headline numbers, honest caveats, misleading framings corrected, 60-second brief — 1,023 SAMPLE lines, net PKR 8.56M, Q2 +52.18% with margin −7.61 pts, 319 checks | [mini25-data-storytelling-executive-summary](https://github.com/mhkh-stock/mini25-data-storytelling-executive-summary) |
+| Power BI DAX Measures Pack | 10 essential DAX measures — revenue, MoM/YoY, YTD, share, repeat rate, target variance — 550 SAMPLE orders, net PKR 7.72M, YoY +48.09%, every measure SQL-verified, 320 checks | [mini26-powerbi-dax-measures](https://github.com/mhkh-stock/mini26-powerbi-dax-measures) |
 
 ### 🐍 Foundations
 
