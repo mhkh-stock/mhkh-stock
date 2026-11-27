@@ -55,7 +55,7 @@
 
 | # | Project | Business question it answers | Tools | Status |
 |---|---------|------------------------------|-------|--------|
-| 1 | E-commerce Revenue, Cohort & Churn Analysis | Where does revenue leak, which customers stay, and what are they worth? | SQL (PostgreSQL) · Python · Power BI | 🔨 Building — live 27 Nov 2026 |
+| 1 | [E-commerce Revenue, Cohort & Churn Analysis](https://github.com/mhkh-stock/f1-ecommerce-revenue-cohort-churn) | Where does revenue leak, which customers stay, and what are they worth? | SQL (SQLite) · Python · Power BI | ✅ Live — 27 Nov 2026 |
 | 2 | Sales Forecasting & Demand Planning | What will next quarter sell, and where will we over/under-stock? | Python (time series) · Streamlit | 📅 Dec 2026 |
 | 3 | Marketing Funnel & A/B Test Analysis | Which channel brings customers who actually stay — and did the test really win? | SQL · Python (statistics) · BI | 📅 Jan 2027 |
 | 4 | Job Market Intelligence Pipeline | Which data skills are employers asking for *this month*? (self-updating ETL) | Python ETL · SQL database · Streamlit | 📅 Feb 2027 |
@@ -96,6 +96,8 @@
 | Automated Pipeline + Power BI Dashboard Pack | 30 daily SAMPLE CSVs → star schema with SHA-256 load log, 2,094 orders, PKR 38,573,539.50, 14 DQ tests, 12 DAX measures, 2-page report + live-formula workbook | Python · SQL · SQLite · Power BI · Excel | [p28-automated-pipeline-powerbi-dashboard-pack](https://github.com/mhkh-stock/p28-automated-pipeline-powerbi-dashboard-pack) |
 | Data Migration Readiness Audit | Legacy billing → cloud ERP, 810 SAMPLE rows → 676 migrated, 134 quarantined, money reconciled to the paisa (PKR 16.67M), CONDITIONAL GO with 5 cutover conditions, lineage doc + live-formula workbook | SQL · Python · Excel | [p29-data-migration-readiness-audit](https://github.com/mhkh-stock/p29-data-migration-readiness-audit) |
 | Executive KPI & Stakeholder Reporting Pack | Monthly one-page KPI pack + narrative — 12 SAMPLE months, 2,230 lines, annual net PKR 13.49M, Dec 2026 PKR 1.23M (−1.8% vs target, AMBER), 12 DAX measures, live-formula workbook + 1-page PDF | SQL · Python · Excel · Power BI | [p30-executive-kpi-stakeholder-reporting](https://github.com/mhkh-stock/p30-executive-kpi-stakeholder-reporting) |
+| AI-Assisted Data Analysis Pack | AI-drafted analysis, every claim validated — 753 SAMPLE lines, net PKR 4.46M, 6 of 10 AI claims passed, 4 corrected with true numbers | Python · Excel | [p31-ai-assisted-data-analysis-pack](https://github.com/mhkh-stock/p31-ai-assisted-data-analysis-pack) |
+| Data Visualisation Storytelling Pack | Dashboard + narrative report — Sutlej Store SAMPLE, PKR 7.83M, June dip −32.3% to Online-led recovery +186.3%, Electronics 58.4% of revenue at the lowest margin | Power BI · Python · Excel | [p32-data-visualisation-storytelling-pack](https://github.com/mhkh-stock/p32-data-visualisation-storytelling-pack) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -206,7 +208,7 @@
 
 ## 🔨 Currently Building
 
-- **Flagship 1** — E-commerce Revenue, Cohort & Churn (real Olist data loaded: 112,650 rows; Phase C RFM + churn done 7 Nov 2026 — 69.99% churned, 617 at-risk repeat buyers; Phase D validation done 8 Nov 2026 — all 11 headlines reconcile three ways; live 27 Nov 2026).
+- **Flagship 1** — E-commerce Revenue, Cohort & Churn ([live repo](https://github.com/mhkh-stock/f1-ecommerce-revenue-cohort-churn)) — real Olist data: 112,650 rows, BRL 13,494,400.74 restated revenue, 69.99% churned, 611 at-risk repeat buyers worth saving; published 27 Nov 2026.
 - **Next:** Mandi Price Intelligence v3.3 is live and Bijli Map v2.0 is live. Loan Payback Calculator is live on GitHub Pages. Ghar ka Register, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
 
 ## 📫 Contact
