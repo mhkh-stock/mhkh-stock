@@ -98,6 +98,8 @@
 | Executive KPI & Stakeholder Reporting Pack | Monthly one-page KPI pack + narrative — 12 SAMPLE months, 2,230 lines, annual net PKR 13.49M, Dec 2026 PKR 1.23M (−1.8% vs target, AMBER), 12 DAX measures, live-formula workbook + 1-page PDF | SQL · Python · Excel · Power BI | [p30-executive-kpi-stakeholder-reporting](https://github.com/mhkh-stock/p30-executive-kpi-stakeholder-reporting) |
 | AI-Assisted Data Analysis Pack | AI-drafted analysis, every claim validated — 753 SAMPLE lines, net PKR 4.46M, 6 of 10 AI claims passed, 4 corrected with true numbers | Python · Excel | [p31-ai-assisted-data-analysis-pack](https://github.com/mhkh-stock/p31-ai-assisted-data-analysis-pack) |
 | Data Visualisation Storytelling Pack | Dashboard + narrative report — Sutlej Store SAMPLE, PKR 7.83M, June dip −32.3% to Online-led recovery +186.3%, Electronics 58.4% of revenue at the lowest margin | Power BI · Python · Excel | [p32-data-visualisation-storytelling-pack](https://github.com/mhkh-stock/p32-data-visualisation-storytelling-pack) |
+| Tableau Sales Dashboard Pack | First Tableau build — Ravi Traders SAMPLE, 681 lines, net PKR 8.60M, August dip −39.1% to Online-led recovery +57.4%, Electronics 66.7% of revenue at the lowest margin, .twb + Excel twin + 3-page report | Tableau · Python · SQL · SQLite · Excel | [p33-tableau-sales-dashboard-pack](https://github.com/mhkh-stock/p33-tableau-sales-dashboard-pack) |
+| Post-Migration Data Validation Pack | After-move proof — Beas Mart SAMPLE, 900 legacy rows → 890 migrated, 32 defects found exactly as planted, revenue gap PKR −84,745 (−0.88%), verdict NO-GO with money bridge to the rupee | SQL · Python · Excel | [p34-post-migration-data-validation-pack](https://github.com/mhkh-stock/p34-post-migration-data-validation-pack) |
 
 ### 🎓 Internship Work — Arch Technologies, Data Science (Month 1)
 
@@ -208,7 +210,7 @@
 
 ## 🔨 Currently Building
 
-- **Flagship 1** — E-commerce Revenue, Cohort & Churn ([live repo](https://github.com/mhkh-stock/f1-ecommerce-revenue-cohort-churn)) — real Olist data: 112,650 rows, BRL 13,494,400.74 restated revenue, 69.99% churned, 611 at-risk repeat buyers worth saving; published 27 Nov 2026.
+- **Flagship 3** — Sales Forecasting & Demand Planning — Phase A done 28 Nov 2026: weekly revenue series from the real Olist history (85 weeks, reconciles to F1's BRL 13,494,400.74), stationarity tested, holdout baseline MAPE 20.56% to beat; Streamlit app + forecast models next, due Fri 18 Dec 2026.
 - **Next:** Mandi Price Intelligence v3.3 is live and Bijli Map v2.0 is live. Loan Payback Calculator is live on GitHub Pages. Ghar ka Register, Mehngai / Salary / Hostel deploy as soon as a hosting slot frees up.
 
 ## 📫 Contact
